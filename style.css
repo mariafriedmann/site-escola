@@ -4,6 +4,7 @@ header {
     color: white;
     display: flex;
     justify-content: space-around;
+    padding: 24px 0;
     }
     .cabeçalho-imagem{
         width: 20%;
@@ -11,6 +12,7 @@ header {
     .cabeçalho-lista-item{
         display: inline-block;
         margin: 0 16px;
+        padding: 24px 0;
     }
     * {
         margin: 0;
